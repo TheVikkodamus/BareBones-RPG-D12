@@ -236,7 +236,7 @@ If the player is attacking, they then roll with their weapon's appropriate attri
 
 Different types of armor provide the player's different **armor reduction**. Due to armor being heavy it may increase **DR** when attacking. The PCs will have an attack penalty when trying to hit a creature.
 
-|    Armor     | Attack Penalty |                 Damage Reduction                 |        Movement Penalty        |
+|    Armor     | DEFENSE Penalty |                 Damage Reduction                 |        Movement Penalty        |
 | :----------: |  :------------: | :----------------------------------------------: | :----------------------------: |
 | Light Armor  | None |      -d2 damage                    |              None              |
 | Medium Armor |    +1  DR     |                    -d4 damage                    | 25 feet (base 30 ft. - 5 ft.)  |
